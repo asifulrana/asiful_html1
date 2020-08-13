@@ -1,0 +1,99 @@
+.tablehead{
+		color: white;
+		background-color: #148F77;
+		display: inline;
+		padding: 5px;
+		border-radius: 10px;
+		box-shadow: 0px 3px 3px #73C6B6;
+		position: relative;
+		left: 49%;
+	
+
+			
+}
+table{
+	width: 100%;
+	border-collapse: collapse;
+}
+th, td{
+	padding: 10px;
+	text-align: left;
+	
+}
+
+tr:nth-child(odd) {background-color: #f2f2f2;}
+th {
+	background-color: #4CAF50;
+	color: white;
+	
+}
+
+.head{
+	background: linear-gradient(to bottom, #6AA121 5%, #9ed55f 100%);
+	border:1px solid #f1f5f8;
+	color: white;
+	text-align: center;
+	padding: 1em;
+	overflow: visible;
+	border-radius: 6px;
+	border-style: outset inset inset outset;
+	box-shadow: 0px 0px 8px #888888;
+	margin: 0;
+	position: relative;
+
+}
+h2{
+	color: #003390;
+	font-size: 15PX;
+	margin: 0;
+
+	
+}
+
+img{
+	position: absolute;
+    top: 320px;
+    left: 20px;
+    display: inline;
+    width: 140px;
+    clear: both;
+   
+}
+
+.contant{
+	background-color: #AED6F1;
+	border:2px solid #566573;
+	border-radius: 10px;
+	width: 800px;
+	height: 500px;
+	margin-top: 100px;
+	margin-left: 50px;
+	margin: auto;
+
+}
+
+p{
+	padding: 50px;
+	font-size: 25px;
+	
+
+}
+.contanth1{
+	text-align: center;
+	
+
+	}
+.link{
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	margin-left: 10px;
+	background-color: #D7BDE2;
+	
+}
+p.link{
+	margin: 0;
+	bottom: 20px;
+	right: 10px;
+	padding: 0;
+}
